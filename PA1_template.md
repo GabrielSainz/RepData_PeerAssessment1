@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
-David Robinson  
-Thursday, April 16, 2015  
+Gabriel Sainz 
+Wednesday, September 2, 2020
 
 ## Loading and preprocessing the data
 
